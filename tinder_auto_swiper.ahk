@@ -2,6 +2,7 @@
 
 ^F12::
     Run https://tinder.com/app/explore
+    ; Run https://bumble.com/app
     Random, activate_delay, 1.0, 1.5
     Sleep, activate_delay * 10000
     swiping_chance = 0.5
