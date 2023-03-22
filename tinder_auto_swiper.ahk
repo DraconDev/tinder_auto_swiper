@@ -8,7 +8,7 @@
         Random, activate_delay, 1.0, 1.5
         Sleep, activate_delay * 10000
         swiping_chance = 0.5
-        right_swipes = 3
+        right_swipes = 100
         current_right_swipes = 0
         while current_right_swipes < right_swipes
         {
